@@ -1,10 +1,9 @@
 package main
 
-
 import (
-	"github.com/vhypnus/go-study/sample"
+    "fmt"
 )
 
-func main(){
-	helleworld()
+func main() {
+   	fmt.Println("hello world")
 }
