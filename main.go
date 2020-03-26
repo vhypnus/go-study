@@ -2,7 +2,7 @@ package main
 
 
 import (
-	"go-study/sample"
+	"github.com/vhypnus/go-study/sample"
 )
 
 func main(){
