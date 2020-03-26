@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-   	sample.Helleworld()
+   	sample.Hello()
 }
