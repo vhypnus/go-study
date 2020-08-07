@@ -28,3 +28,5 @@ x = x <- ch // a receive expression in an assignment statement
 - synchronize
 
 ### Pipelines
+
+### Unidirectional Channel Types
